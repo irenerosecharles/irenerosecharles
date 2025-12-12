@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Computer Science & AI Engineering student<br>📡 Currently learning AI, ML, Dl, IOT, & real-world data applications<br>🚀 I develop intelligent tools with clean UI and meaningful functionality<br>🧠 I love exploring R, Python, and turning ideas into smart systems<br>🧩 Always building, debugging, and learning something new
+💻 Computer Science & AI Engineering student<br>📡 Currently learning AI, ML, DL, IOT, & real-world data applications<br>🚀 I develop intelligent tools with clean UI and meaningful functionality<br>🧠 I love exploring R, Python, and turning ideas into smart systems<br>🧩 Always building, debugging, and learning something new
 
 
 # 💻 Tech Stack:
